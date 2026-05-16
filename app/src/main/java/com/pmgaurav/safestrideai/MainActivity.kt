@@ -28,7 +28,7 @@ class MainActivity : ComponentActivity() {
             SafeStrideAITheme {
                 Surface(
                     modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background
+                    color = MaterialTheme.colorScheme.background,
                 ) {
                     AppNavigation(viewModel)
                 }
