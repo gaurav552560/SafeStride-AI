@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SafeStrideAI" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.SafeStrideAI.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0D1117</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_round</item>
+        <item name="windowSplashScreenAnimationDuration">1200</item>
+        <item name="postSplashScreenTheme">@style/Theme.SafeStrideAI</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00E5FF</color>
+    <color name="secondary">#FF6D00</color>
+    <color name="background">#0D1117</color>
+    <color name="surface">#161B22</color>
+    <color name="surface_variant">#21262D</color>
+    <color name="on_background">#E6EDF3</color>
+    <color name="error">#FF4444</color>
+    <color name="warning">#FFA726</color>
+    <color name="success">#00C853</color>
+
+    <color name="tier_1">#FFD600</color>
+    <color name="tier_2">#FF6D00</color>
+    <color name="tier_3">#FF1744</color>
+</resources>

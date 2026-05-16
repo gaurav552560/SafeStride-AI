@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">सेफस्ट्राइड एआई (SafeStrideAI)</string>
+
+    <!-- UI Strings -->
+    <string name="system_paused">सिस्टम रुका हुआ है</string>
+    <string name="danger_collision_imminent">खतरा! टक्कर होने वाली है</string>
+    <string name="caution_vehicle_approaching">सावधान: वाहन आ रहा है</string>
+    <string name="stay_alert_object_detected">सतर्क रहें: वस्तु का पता चला</string>
+    <string name="resume">शुरू करें</string>
+    <string name="pause">रोकें</string>
+    <string name="map">नक्शा</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="dismiss">हटाएं</string>
+
+    <!-- Errors -->
+    <string name="error_camera">कैमरा शुरू नहीं हो सका। कृपया अनुमतियां जांचें।</string>
+    <string name="error_model">एआई मॉडल लोड नहीं हो सका। कृपया ऐप को फिर से शुरू करें।</string>
+    <string name="error_location">जीपीएस सिग्नल खो गया।</string>
+    <string name="error_root">रुटेडे डिवाइस का पता चला। आपकी सुरक्षा के लिए, कुछ सुविधाएं अक्षम हैं।</string>
+
+    <!-- Alert Announcements for TTS -->
+    <string name="announcement_tier_3">गंभीर चेतावनी: टक्कर होने वाली है। तुरंत रुकें।</string>
+    <string name="announcement_tier_2">चेतावनी: वाहन करीब आ रहा है। सावधान रहें।</string>
+    <string name="announcement_tier_1">सूचना: पास में वस्तु का पता चला।</string>
+</resources>

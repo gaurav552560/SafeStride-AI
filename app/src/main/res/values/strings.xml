@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafeStrideAI</string>
+
+    <!-- UI Strings -->
+    <string name="system_paused">SYSTEM PAUSED</string>
+    <string name="danger_collision_imminent">DANGER! Collision Imminent</string>
+    <string name="caution_vehicle_approaching">CAUTION: Vehicle approaching</string>
+    <string name="stay_alert_object_detected">Stay Alert: Object detected</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+    <string name="map">Map</string>
+    <string name="settings">Settings</string>
+    <string name="dismiss">DISMISS</string>
+
+    <!-- Errors -->
+    <string name="error_camera">Camera initialization failed. Please check permissions.</string>
+    <string name="error_model">AI Model failed to load. Try restarting the app.</string>
+    <string name="error_location">GPS signal lost. Navigation features limited.</string>
+    <string name="error_root">Rooted device detected. For your safety, some features are disabled as OS integrity cannot be guaranteed.</string>
+
+    <!-- Alert Announcements for TTS -->
+    <string name="announcement_tier_3">Critical Alert: Collision Imminent. Stop walking immediately.</string>
+    <string name="announcement_tier_2">Warning: Vehicle approaching. Be careful.</string>
+    <string name="announcement_tier_1">Advisory: Object detected nearby.</string>
+</resources>
